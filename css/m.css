@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+ 	padding: 0;
+ 	background: #FFEAF1;
+ }
+
+ .map {
+ 	width: 100%;
+    height: 100%;
+    top: 150px;
+    left: 0;
+    position: relative;
+    
+ }
+
+ .part {
+ 	width: 250px;
+    height: auto;
+    margin-left: 42%;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: #BEAEB3;
+ }
+
+ .text {
+ 	text-align: center;
+ }
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#f {
+	text-align: center;
+	margin-top: -120px;
+}
+
+.part:hover {
+	border-color: #242424;
+	transform: scale(1.2);
+	background-color: #C4B4B9;
+}
+
+.Q {
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 5%;
+   font-size: 24px;
+   margin-bottom: 5%;
+}
+
+.gg {
+   border: 4px solid #E7D4DA;
+   margin-left: 20%;
+
+}
